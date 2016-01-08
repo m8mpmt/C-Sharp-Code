@@ -1,1 +1,1 @@
-Code that I wrote in C# for assignments, projects, etc while at ASU
+Code that I wrote in C# for assignments & projects while at Arizona State University. 
